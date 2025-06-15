@@ -1,15 +1,15 @@
-# ðŸ“Š Layoffs Data Cleaning Project
+# 📊 Layoffs Data Cleaning Project
 
-## ðŸ§¼ Introduction
+## 🧼 Introduction
 
 Welcome to the data cleaning phase! This project explores a series of steps to clean up messy data and make it good enough for accurate and insightful analysis.
 
-> ðŸ“‚ **File Reference**:  
+> 📂 **File Reference**:  
 > - `LAYFOFFS DATA CLEANING PROJECT.sql`: Contains the full sequence of SQL cleaning operations.
 
 
 
-## ðŸ” Background
+## 🔍 Background
 
 This project tackles the problem of messy, inconsistent data in a dataset about global layoffs. The goal was to:
 
@@ -23,7 +23,7 @@ Each step improves the reliability and usability of the data for future analysis
 
 
 
-## ðŸ› ï¸ Tools Used
+## 🛠️ Tools Used
 
 - **SQL**: The core tool for querying, transforming, and cleaning the data.  
 - **MySQL**: Chosen database system for managing and manipulating the dataset.  
@@ -31,7 +31,7 @@ Each step improves the reliability and usability of the data for future analysis
 
 
 
-## ðŸ“ˆ The Analysis
+## 📈 The Analysis
 
 Each SQL query in this project was focused on identifying and correcting issues in the dataset. The key steps were:
 
@@ -55,17 +55,17 @@ Each SQL query in this project was focused on identifying and correcting issues 
 
 
 
-## ðŸ’¡ What I Learned
+## 💡 What I Learned
 
 Throughout this adventure, Iâ€™ve turbocharged my SQL toolkit and gained:
 
-- ðŸ§  Stronger **data transformation** logic with CTEs and `ROW_NUMBER()`  
-- ðŸ› ï¸ Practical experience with **changing data types**:  
+- 🧠  Stronger **data transformation** logic with CTEs and `ROW_NUMBER()`  
+- 🛠️ Practical experience with **changing data types**:  
   - E.g., `ALTER TABLE` to change the `date` column from `TEXT` to `DATE`  
-- ðŸŽ¯ Skills in **identifying useful data** and removing noise from large datasets
+- 🎯 Skills in **identifying useful data** and removing noise from large datasets
 
 
 
-## âœ… Conclusion
+## ✅ Conclusion
 
 By the end of this project, I transformed a messy and inconsistent dataset into a clean, standardized, and reliable one. This cleaned dataset is now ready for detailed analysis, visualization, and reporting in any data science or business intelligence workflow.
